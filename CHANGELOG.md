@@ -1,3 +1,7 @@
+## 0.3.0
+
+- Updated dependencies, now requires `analyzer` 8+ and Dart 3.8+.
+
 ## 0.2.1
 
 - Fix resolution of commit timestamp
